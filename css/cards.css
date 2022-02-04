@@ -110,5 +110,6 @@
   .cards-container{
     flex-flow: column;
     perspective: none;
+    height: 100%;
   }
 }
